@@ -41,8 +41,9 @@ public class Trip {
 	public static void Time() {
 		Scanner read = new Scanner(System.in);
 		System.out.print("What's the time difference, in hours, between your home and your home and your destination?");
-		int timeDiff= read.nextInt();
-		System.out.println("That means that when it is midnight at home it will be "+timeDiff%24+":00 in your travel destination "+
+		int timeDiff= read.nextInt(), Diff;
+		if (timeDiff<=0) { Diff=24+timeDiff;} else {Diff=0+timeDiff;}
+		System.out.println("That means that when it is midnight at home it will be "+Diff+":00 in your travel destination "+
 				" and when it will be noon at home it will be "+(12+timeDiff)%24+":00");
 		System.out.println("***********");
 		System.out.print("Want to respond to one more question?");
