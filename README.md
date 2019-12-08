@@ -26,7 +26,7 @@ You'll need to have at least a php interpreter or a php server (like [Wamp Serve
 ### HTML, CSS, JS and Php files
 * [Visual Studio Code](https://code.visualstudio.com/download) and [Sublime Text](https://www.sublimetext.com/3)
 ### C++ programs 
-* [Visual Studio}(https://visualstudio.microsoft.com/)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 
 
 ## Authors
