@@ -23,7 +23,7 @@ Just run them in your browser
 ### HTML, CSS and JS files
 * [Visual Studio Code](https://code.visualstudio.com/download) and [Sublime Text](https://www.sublimetext.com/3)
 ### C++ programs 
-* [Visual Studio](https://visualstudio.microsoft.com/) and [Visual Studio Code](https://code.visualstudio.com/download) when I'm on Linux
+* [Visual Studio](https://visualstudio.microsoft.com/) and [Visual Studio Code](https://code.visualstudio.com/download) 
 
 
 ## Authors
