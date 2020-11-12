@@ -26,9 +26,9 @@ Just run them in your browser
 * [Visual Studio](https://visualstudio.microsoft.com/) and [Visual Studio Code](https://code.visualstudio.com/download) 
 
 
-## Authors
+## Author
 
-* **Trifan Grigore-Gabriel** 
+* **TheSlayer666** 
 
 
 ## License
