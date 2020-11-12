@@ -1,6 +1,6 @@
 # On this page...
 
-You can find some of my best projects made till now
+You can find some simple scripts made at the school
 
 ### Prerequisites
 
